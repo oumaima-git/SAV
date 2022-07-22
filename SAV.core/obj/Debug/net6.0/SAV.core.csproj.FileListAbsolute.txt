@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\SAV.core\bin\Debug\net6.0\SAV.core.deps.json
+C:\Users\ASUS\source\repos\SAV.core\bin\Debug\net6.0\SAV.core.dll
+C:\Users\ASUS\source\repos\SAV.core\bin\Debug\net6.0\SAV.core.pdb
+C:\Users\ASUS\source\repos\SAV.core\obj\Debug\net6.0\SAV.core.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\SAV.core\obj\Debug\net6.0\SAV.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\SAV.core\obj\Debug\net6.0\SAV.core.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\SAV.core\obj\Debug\net6.0\SAV.core.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\SAV.core\obj\Debug\net6.0\SAV.core.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\SAV.core\obj\Debug\net6.0\SAV.core.dll
+C:\Users\ASUS\source\repos\SAV.core\obj\Debug\net6.0\refint\SAV.core.dll
+C:\Users\ASUS\source\repos\SAV.core\obj\Debug\net6.0\SAV.core.pdb
+C:\Users\ASUS\source\repos\SAV.core\obj\Debug\net6.0\ref\SAV.core.dll

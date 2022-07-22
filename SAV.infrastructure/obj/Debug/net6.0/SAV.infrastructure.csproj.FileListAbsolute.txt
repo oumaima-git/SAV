@@ -1,0 +1,17 @@
+C:\Users\ASUS\source\repos\SAV.infrastructure\obj\Debug\net6.0\SAV.infrastructure.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\SAV.infrastructure\obj\Debug\net6.0\SAV.infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\SAV.infrastructure\obj\Debug\net6.0\SAV.infrastructure.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\SAV.infrastructure\obj\Debug\net6.0\SAV.infrastructure.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\SAV.infrastructure\obj\Debug\net6.0\SAV.infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\SAV.infrastructure\bin\Debug\net6.0\SAV.infrastructure.deps.json
+C:\Users\ASUS\source\repos\SAV.infrastructure\bin\Debug\net6.0\SAV.infrastructure.dll
+C:\Users\ASUS\source\repos\SAV.infrastructure\bin\Debug\net6.0\SAV.infrastructure.pdb
+C:\Users\ASUS\source\repos\SAV.infrastructure\bin\Debug\net6.0\SAV.core.dll
+C:\Users\ASUS\source\repos\SAV.infrastructure\bin\Debug\net6.0\SAV.core.pdb
+C:\Users\ASUS\source\repos\SAV.infrastructure\obj\Debug\net6.0\SAV.infrastructure.csproj.CopyComplete
+C:\Users\ASUS\source\repos\SAV.infrastructure\obj\Debug\net6.0\SAV.infrastructure.dll
+C:\Users\ASUS\source\repos\SAV.infrastructure\obj\Debug\net6.0\refint\SAV.infrastructure.dll
+C:\Users\ASUS\source\repos\SAV.infrastructure\obj\Debug\net6.0\SAV.infrastructure.pdb
+C:\Users\ASUS\source\repos\SAV.infrastructure\obj\Debug\net6.0\ref\SAV.infrastructure.dll
+C:\Users\ASUS\source\repos\SAV.infrastructure\bin\Debug\net6.0\SAV.infrastructure.runtimeconfig.json
+C:\Users\ASUS\source\repos\SAV.infrastructure\obj\Debug\net6.0\SAV.infrastructure.genruntimeconfig.cache
